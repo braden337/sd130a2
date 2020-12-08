@@ -1,0 +1,31 @@
+git checkout -b history
+gl
+gs
+git push
+git merge issue-1
+git checkout main
+gl
+gs
+git rebase main
+git checkout issue-1
+git log
+gl
+gs
+git remote -v
+git pull
+gs
+git reset 9437867 --hard
+git push
+git checkout main
+gs
+git commit
+ga
+git diff .
+flowserve dist
+npx gulp
+git config --global core.autocrlf
+npm i -D gulp-concat
+git checkout -b issue-1
+npm i
+clear
+git clone git@github.com:braden337/sd130a2.git
