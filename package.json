@@ -1,0 +1,16 @@
+{
+  "name": "SD130-A2",
+  "version": "1.0.0",
+  "description": "1. Clone this repository to a local directory. 2. Create a new branch, called \"name-adding-feature,\" and checkout that branch. 3. Add to the main.js script a method that adds your name (feel free to hard-code your name into the script) to the unordered list element on the page. Commit this change when you are satisfied that it works.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2"
+  }
+}

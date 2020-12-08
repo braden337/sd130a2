@@ -1,0 +1,27 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3 {
+  color: rgba(0, 109, 103, 0.7);
+}
+
+h1, .attendance-container {
+  margin: auto;
+  text-align: center;
+}
+
+.attendance-container ul{
+  list-style: none;
+}
+
+.content-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+img {
+  width: 200px;
+  float: left;
+  padding-right: 20px;
+}
