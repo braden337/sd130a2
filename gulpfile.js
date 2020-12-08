@@ -1,5 +1,8 @@
 const {src, dest, series, parallel} = require('gulp');
 const del = require('del');
+const imagemin = require('gulp-imagemin'); 
+
+// This task is supposed to clean things
 
 const minify = require('gulp-minify');
 
@@ -30,6 +33,7 @@ function stylesTask() {
 
 function imagesTask() {
   return src('src/images/**/*')
+    .pipe(imagemin())
     .pipe(dest('dist/images'))
 }
 
