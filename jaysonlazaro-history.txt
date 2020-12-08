@@ -1,0 +1,119 @@
+   11  ls
+   12  git init
+   13  git clone https://github.com/jayson-lazaro/sd130-assignment-2-repo-5
+   14  git status
+   15  ls
+   16  cd sd130-assignment-2-repo-5/
+   17  git status
+   18  git branch
+   19  git switch -c issue-2
+   20  git branch
+   21  code .
+   22  code .
+   23  code .
+   24  ls
+   25  cd src
+   26  ls
+   27  cd ..
+   28  ls
+   29  npm install --save-dev gulp-minify
+   30  git status
+   31  git branch
+   32  git switch main
+   33  git merge issue-2
+   34  git commit -m "Added  names of classmates when 'Click to Add' button is clicked. Added minify to js task in gulpfile."
+   35  git pull
+   36  git status
+   37  git branch
+   38  git merge issue-2
+   39  git pull
+   40  git commit -m "Added  names of classmates when 'Click to Add' button is clicked. Added minify to js task in gulpfile."
+   41  git pull
+   42  git checkout HEAD^ gulpfile.js
+   43  git stash push --include-untracked
+   44  git pull
+   45  git status
+   46  git branch
+   47  git switch issue-2
+   48  code .
+   49  git status
+   50  switch main
+   51  git switch main
+   52  got commit -m "Added minify task to gulpfile"
+   53  git commit -m "Added minify task to gulpfile"
+   54  git add gulpfile.js
+   55  git commit -m "Added minify task to gulpfile"
+   56  git switch main
+   57  git merge issue-2
+   58  git commit -m "Added function to js file for names of classmates to show  when 'Click to Add' button is clicked."
+   59  git push
+   60  git commit -m "Added function to js file for names of classmates to show  when 'Click to Add' button is clicked."
+   61  git log --oneline
+   62  git commit --allow-empty -m "Added function to js file for names of classmates to show  when 'Click to Add' button is clicked."
+   63  git log --oneline
+   64  git push
+   65  ls
+   66  cd src
+   67  ls
+   68  git status
+   69  cd scripts
+   70  ls
+   71  cd status
+   72  ls
+   73  git status
+   74  git add main.js
+   75  ls
+   76  git log --oneline
+   77  git branch
+   78  git switch issue-2
+   79  ls
+   80  git status
+   81  cat main.js
+   82  git reset HEAD~
+   83  git status
+   84  git log oneline--
+   85  git log --oneline
+   86  git branch
+   87  git switch main
+   88  ls
+   89  cd ..
+   90  ls
+   91  cd ..
+   92  ls
+   93  cat gulpfile.js
+   94  ls
+   95  git status
+   96  git add gulpfile.js
+   97  git add src/scripts/main.js
+   98  ls
+   99  git status
+  100  git branch"
+"
+  101  git branch
+  102  git switch main
+  103  git commit -m "Added function to js file for names of classmates to show  when 'Click to Add' button is clicked. Added minify to gulpfile.js""
+"
+  104  git switch main
+  105  git merge issue-2
+  106  code .
+  107  git status
+  108  git branch
+  109  git merge issue-2
+  110  code .
+  111  git status
+  112  git add gulpfile.js
+  113  git status
+  114  git branch
+  115  git merge issue-2
+  116  git log --oneline
+  117  git status
+  118  git commit -m "Added function to js file for names of classmates to show  when 'Click to Add' button is clicked."
+  119  git log --online
+  120  git log --online
+  121  git log --oneline
+  122  git status
+  123  git push
+  124  ls
+  125  git status
+  126  git-ls-files
+  127  history > jaysonlazaro-history.txt
