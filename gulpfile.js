@@ -1,6 +1,8 @@
 const {src, dest, series, parallel} = require('gulp');
 const del = require('del');
 
+// This task is supposed to clean things
+
 function cleanTask() {
   return del('dist');
 }
