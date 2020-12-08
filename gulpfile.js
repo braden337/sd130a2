@@ -1,5 +1,6 @@
 const {src, dest, series, parallel} = require('gulp');
 const del = require('del');
+const minify = require('gulp-minify');
 
 function cleanTask() {
   return del('dist');
@@ -12,6 +13,7 @@ function pagesTask() {
 
 function scriptsTask() {
   return src('src/scripts/**/*.js')
+    .pipe(minify())
     .pipe(dest('dist/js'));
 }
 
