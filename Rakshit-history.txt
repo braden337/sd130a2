@@ -1,0 +1,111 @@
+    1  cat >> index.html
+    2  npm -v
+    3  clear
+    4  npm -v
+    5  node -v
+    6  clear
+    7  npm i -g gulp
+    8  history
+    9  clear
+   10  git --version
+   11  clear
+   12  git config
+   13  code .
+   14  cd Desktop/New folder/ SD 120
+   15  cd /Desktop/"New folder/"SD 120"
+   16  code .
+   17  clear
+   18  bash
+   19  history
+   20  Folder
+   21  cd Folder/
+   22  cd /mnt/c/Users/Rakshit/Desktop/Folder
+   23  bash
+   24  wsl
+   25  git delete Folder
+   26  git remove Folder
+   27  rm Folder
+   28  wsl
+   29  clear
+   30  cd /c/Users/Rakshit/Desktop/Assignment-1
+   31  git config --global user.name "Rakshit Patel"
+   32  git config --global user.id Patel26@student.mitt.ca
+   33  git config --global core.editor "code"
+   34  git init
+   35  git add css
+   36  git add images js index.html
+   37  git status
+   38  git commit -m "Adding all files"
+   39  git status
+   40  git remote add origin Assignment-1
+   41  git remote -v
+   42  npm install
+   43  npm init
+   44  code .
+   45  git status
+   46  git commit -a
+   47  git status 
+   48  code .
+   49  git status
+   50  git add css/normalize.css css/style.css images/advanced-javascript.png
+   51  git add images/html_and_css.png images/js-basics.png images/react.jpg images/testing.png 
+   52  history
+   53  git add css/normalize.css css/style.css images/advanced-javascript.png
+   54  cd /c/Users/Rakshit/Desktop/Assignment-1
+   55  git status
+   56  git add images/html_and_css.jpg images/js-basics.png
+   57  git add images/react.jpt images/testing.png images/tools.png
+   58  git status
+   59  git add images/react.jpg images/testing.png images/tools.png
+   60  git add index.html js/courses.js js/main.js
+   61  git status
+   62  git commit -m "Creating src file"
+   63  git status 
+   64  git add <file>...
+   65  git add package-lock.json package.json src
+   66  git status
+   67  git commit -m "Creating working directory"
+   68  git status
+   69  code .
+   70  cd /c/Users/Rakshit/Desktop/Assignment-1
+   71  git init
+   72  git remote -v
+   73  git remote add origin https://github.com/Rakshit2411/shopping-cart.git
+   74  git remote -v
+   75  git staus
+   76  git status
+   77  git add src
+   78  git commit -m "Creating a working directory"
+   79  git status
+   80  code .
+   81  cd /c/Users/Rakshit/Desktop/shopping-cart
+   82  git init
+   83  git remote add https://github.com/Rakshit2411/shopping-cart.git
+   84  git remote add origin https://github.com/Rakshit2411/shopping-cart.git
+   85  git remote -v
+   86  git add index.html
+   87  git add css
+   88  git add js
+   89  git add images
+   90  git status
+   91  git commit -m "Adding files"
+   92  git push
+   93  git push --set-upstream origin master
+   94  code .
+   95  git checkout main
+   96  cd/sd130-assignment-2-repo-5
+   97  cd sd130-assignment-2-repo-5 
+   98  git status
+   99  git commit -m "Merging the branch Issue-3"
+  100  git push
+  101  git pull
+  102  git add .
+  103  git commit -m "Solving conflict"
+  104  git push
+  105  history
+  106  history | grep 'cat' >> Rakshit-history.txt
+  107  history -w ~/Rakshit-history.txt
+  108  git status
+  109  history > ~/Rakshitbhai-Patel-history.txt
+  110  git status
+  111  history >> Rakshit-history.txt
