@@ -2,6 +2,8 @@ const {src, dest, series, parallel} = require('gulp');
 const del = require('del');
 const imagemin = require('gulp-imagemin'); 
 
+// This task is supposed to clean things
+
 function cleanTask() {
   return del('dist');
 }
