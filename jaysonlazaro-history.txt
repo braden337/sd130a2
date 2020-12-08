@@ -117,3 +117,90 @@
   125  git status
   126  git-ls-files
   127  history > jaysonlazaro-history.txt
+104  git switch main
+  105  git merge issue-2
+  106  code .
+  107  git status
+  108  git branch
+  109  git merge issue-2
+  110  code .
+  111  git status
+  112  git add gulpfile.js
+  113  git status
+  114  git branch
+  115  git merge issue-2
+  116  git log --oneline
+  117  git status
+  118  git commit -m "Added function to js file for names of classmates to show  when 'Click to Add' button is clicked."
+  119  git log --online
+  120  git log --online
+  121  git log --oneline
+  122  git status
+  123  git push
+  124  ls
+  125  git status
+  126  git-ls-files
+  127  history > jaysonlazaro-history.txt
+  509  code .
+  510  gulp
+  511  npm install gulp --save-dev
+  512  git pull
+  513  gulp
+  514  ls
+  515  gulp
+  516  git status
+  517  git commit -m "resovlved conflicts"
+  518  git status
+  519  gulp
+  520  git status
+  521  git add scr/index.html
+  522  git add src//index.html
+  523  ls
+  524  git push https://github.com/jayson-lazaro/sd130-assignment-2-repo-5
+  525  gulp
+  526  git status
+  527  gulp
+  528  gulp
+  529  gulp
+  530  git status
+  531  git add gulpfile.js package.json
+  532  ls
+  533  git push https://github.com/jayson-lazaro/sd130-assignment-2-repo-5
+  534  gulp
+  535  gulp
+  536  ls
+  537  cd src
+  538  ls
+  539  sc scripts
+  540  ls
+  541  cd scripts
+  542  ls
+  543  git status
+  544  git add ../../gulpfile.js
+  545  git status
+  546  gulp
+  547  npm install --save-dev gulp-concat
+  548  gulp
+  549  npm install --save-dev gulp-minify
+  550  gulp
+  551  gulp
+  552  npm install --save-dev gulp-imagemin 
+  553  gulp
+  554  gulp
+  555  git push https://github.com/jayson-lazaro/sd130-assignment-2-repo-5
+  556  git status
+  557  ls
+  558  cd ..
+  559  ls
+  560  cd ..
+  561  ls
+  562  git status
+  563  git add gulpfile.js
+  564  git add src/index.html
+  565  git status
+  566  git commit -m "modified index.html & gulpfile to get the webpage to work properly"
+  567  ls
+  568  git status
+  569  git push https://github.com/jayson-lazaro/sd130-assignment-2-repo-5
+  570  ls
+  571  history >> jaysonlazaro-history.txt
